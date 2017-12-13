@@ -10,3 +10,12 @@ Steps to perform and additional information is available in the repository.
 For my implementation please check the [write-up](https://github.com/bahadirozkan/Perception_PR2/blob/master/Write-up.pdf) document.
 
 ![28748231-46b5b912-7467-11e7-8778-3095172b7b19](https://user-images.githubusercontent.com/20925510/33958703-4502fbba-e056-11e7-9cd2-56fb67ff9557.png)
+
+For object recognition following files were used:
++ [capture_features.py](https://github.com/bahadirozkan/Perception_PR2/blob/master/pr2_robot/scripts/capture_features.py)
++ [train_svm.py](https://github.com/bahadirozkan/Perception_PR2/blob/master/pr2_robot/scripts/train_svm.py)
+
+The outputs which are required to complete the project are as follows:
++ [Scene 1](https://github.com/bahadirozkan/Perception_PR2/blob/master/pr2_robot/scripts/output_1.yaml)
++ [Scene 2](https://github.com/bahadirozkan/Perception_PR2/blob/master/pr2_robot/scripts/output_2.yaml)
++ [Scene 3](https://github.com/bahadirozkan/Perception_PR2/blob/master/pr2_robot/scripts/output_3.yaml)
